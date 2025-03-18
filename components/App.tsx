@@ -31,7 +31,7 @@ import {
 } from "@/components/ui/drawer"
 import { Moon, Sun, Menu, ChevronDown } from "lucide-react"
 import { useColorModeValue, useColorMode } from './ui/color-mode'
-import { FaInstagram, FaTwitter, FaTiktok  } from 'react-icons/fa'
+import { FaInstagram, FaTiktok  } from 'react-icons/fa'
 
 type Iprops = {
   children: ReactNode;
@@ -140,7 +140,6 @@ const App = ({ children }: Iprops) => {
     </>
   )
 }
-
 
 const SocialButton = ({
   children,
@@ -375,10 +374,8 @@ const NAV_ITEMS: Array<NavItem> = [
         label: 'Transport',
         href: '/transport',
       },      
-   
     ],
   },
-
   {
     label: 'About Us',
     href: '/about/',
@@ -389,14 +386,14 @@ const NAV_ITEMS: Array<NavItem> = [
   },
   {label:'Locations',
     children:[
-      {label:'Kilifi',href:'/gallery'},
+      {label:'Kilifi',href:'/kilifi'},
       {label:'Mombasa',href:'/mombasa'},
+      {label:'Tsavo',href:'/tsavo'},
       {label:'Watamu',href:'/watamu'},
       {label:'Lamu',href:'/lamu'},
       {label:'Diani',href:'/diani'}
 
     ]
-  }
-  
+  } 
 ]
 export default App;

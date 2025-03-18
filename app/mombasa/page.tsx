@@ -205,7 +205,7 @@ console.log(setLoading)
                <Image
                 borderRadius="lg"
                 src={
-                  '21.jpg'
+                  '23.jpg'
                 }
                 alt="some good alt text"
                 objectFit="contain"
@@ -215,7 +215,7 @@ console.log(setLoading)
                <Image
                 borderRadius="lg"
                 src={
-                  '22.jpg'
+                  '25.jpg'
                 }
                 alt="some good alt text"
                 objectFit="contain"
@@ -255,7 +255,7 @@ console.log(setLoading)
                <Image
                 borderRadius="lg"
                 src={
-                  '23.jpg'
+                  '24.jpg'
                 }
                 alt="some good alt text"
                 objectFit="contain"
@@ -266,7 +266,7 @@ console.log(setLoading)
                <Image
                 borderRadius="lg"
                 src={
-                  '24.jpg'
+                  '407.jpg'
                 }
                 alt="some good alt text"
                 objectFit="contain"
@@ -297,7 +297,7 @@ console.log(setLoading)
                <Image
                 borderRadius="lg"
                 src={
-                  '27.jpg'
+                  '9.jpg'
                 }
                 alt="some good alt text"
                 objectFit="contain"
@@ -307,7 +307,7 @@ console.log(setLoading)
                <Image
                 borderRadius="lg"
                 src={
-                  '28.jpg'
+                  '27.jpg'
                 }
                 alt="some good alt text"
                 objectFit="contain"
@@ -357,7 +357,7 @@ console.log(setLoading)
                <Image
                 borderRadius="lg"
                 src={
-                  '33.jpg'
+                  '44.jpg'
                 }
                 alt="some good alt text"
                 objectFit="contain"
@@ -367,7 +367,7 @@ console.log(setLoading)
                <Image
                 borderRadius="lg"
                 src={
-                  '34.jpg'
+                  'gems.jpg'
                 }
                 alt="some good alt text"
                 objectFit="contain"
@@ -377,7 +377,7 @@ console.log(setLoading)
                <Image
                 borderRadius="lg"
                 src={
-                  '35.jpg'
+                  'tours.jpg'
                 }
                 alt="some good alt text"
                 objectFit="contain"
@@ -387,7 +387,7 @@ console.log(setLoading)
                <Image
                 borderRadius="lg"
                 src={
-                  '36.jpg'
+                  'gems2.jpg'
                 }
                 alt="some good alt text"
                 objectFit="contain"
@@ -397,7 +397,7 @@ console.log(setLoading)
                <Image
                 borderRadius="lg"
                 src={
-                  '37.jpg'
+                  'gems3.jpg'
                 }
                 alt="some good alt text"
                 objectFit="contain"
@@ -407,7 +407,7 @@ console.log(setLoading)
                <Image
                 borderRadius="lg"
                 src={
-                  '38.jpg'
+                  'coast.jpg'
                 }
                 alt="some good alt text"
                 objectFit="contain"
@@ -417,7 +417,7 @@ console.log(setLoading)
                <Image
                 borderRadius="lg"
                 src={
-                  '39.jpg'
+                  'custom.jpg'
                 }
                 alt="some good alt text"
                 objectFit="contain"
@@ -427,7 +427,7 @@ console.log(setLoading)
                <Image
                 borderRadius="lg"
                 src={
-                  '40.jpg'
+                  '50.jpg'
                 }
                 alt="some good alt text"
                 objectFit="contain"
@@ -437,7 +437,7 @@ console.log(setLoading)
                <Image
                 borderRadius="lg"
                 src={
-                  '41.jpg'
+                  'custom2.jpg'
                 }
                 alt="some good alt text"
                 objectFit="contain"
@@ -447,7 +447,7 @@ console.log(setLoading)
                <Image
                 borderRadius="lg"
                 src={
-                  '42.jpg'
+                  'custom3.jpg'
                 }
                 alt="some good alt text"
                 objectFit="contain"
@@ -457,7 +457,7 @@ console.log(setLoading)
                <Image
                 borderRadius="lg"
                 src={
-                  '43.jpg'
+                  'coast2.jpg'
                 }
                 alt="some good alt text"
                 objectFit="contain"
