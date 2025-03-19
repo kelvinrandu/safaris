@@ -242,20 +242,7 @@ export default function Spot({ name, description, badge, img, loading }: Props) 
               _hover={{ bg: 'orange.500' }}>
               Enquire
             </Button>
-            <Button
-              as={'a'}
-     //@ts-expect-error:type fix
-              href="https://billing.stripe.com/p/session/live_YWNjdF8xUEdHQkNSb3Q4VFMwN3k2LF9Sa2xta2VDQVRiVDlscTlUQzF2djZxN3I3VDJXa3dk0100Kz13CPq5"
-  
-              rounded={'full'}
-              size={'lg'}
-              fontWeight={'normal'}
-              px={6}
-              colorScheme={'orange'}
-              bg={'orange.400'}
-              _hover={{ bg: 'orange.500' }}>
-              Pay
-            </Button>
+      
         
           </Stack>
         </Stack>
